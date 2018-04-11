@@ -1,6 +1,6 @@
 applications:
 - name: NginixDemo
-  memory: 512mb
+  memory: 64mb
   stack: cflinuxfs2
   buildpack: staticfile_buildpack
   path: .
